@@ -1,4 +1,4 @@
-# github-sandbox   
+# github-sandbox
 
 # 📥 Download Files via Commit Message
 
@@ -99,7 +99,7 @@ After committing, you can monitor the workflow:
 
 --- 
 
-## ⚠️ Notes  
+## ⚠️ Notes 
 
 - URLs must be publicly accessible (no login required)
 - Separate multiple URLs with spaces
